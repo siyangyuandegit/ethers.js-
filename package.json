@@ -1,0 +1,20 @@
+{
+  "name": "ethers",
+  "version": "1.0.0",
+  "description": "手把手教你如何从0开始速成ethers.js",
+  "main": "account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyangyuandegit/ethers.js-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/siyangyuandegit/ethers.js-/issues"
+  },
+  "homepage": "https://github.com/siyangyuandegit/ethers.js-#readme"
+}
